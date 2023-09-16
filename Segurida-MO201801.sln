@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segurida-MO201801", "Segurida-MO201801\Segurida-MO201801.csproj", "{BB6DB8E2-9B02-464E-AF37-92B9477141BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6DB8E2-9B02-464E-AF37-92B9477141BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6DB8E2-9B02-464E-AF37-92B9477141BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6DB8E2-9B02-464E-AF37-92B9477141BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6DB8E2-9B02-464E-AF37-92B9477141BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66187A7-D43C-48DB-ACAC-FB2CABAD338D}
+	EndGlobalSection
+EndGlobal
